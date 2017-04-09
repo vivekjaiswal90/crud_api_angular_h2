@@ -1,7 +1,7 @@
-package com.websystique.springboot.service;
+package com.vivek.springboot.service;
 
 
-import com.websystique.springboot.model.User;
+import com.vivek.springboot.model.User;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.websystique.springboot.repositories;
+package com.vivek.springboot.repositories;
 
-import com.websystique.springboot.model.User;
+import com.vivek.springboot.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

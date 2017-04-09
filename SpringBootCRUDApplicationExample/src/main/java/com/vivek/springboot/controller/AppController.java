@@ -1,4 +1,4 @@
-package com.websystique.springboot.controller;
+package com.vivek.springboot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
